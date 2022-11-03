@@ -1,0 +1,30 @@
+{
+    "locations": {
+        "starter area": {
+            "display_name": "Starter area",
+            "enemies": {
+                "small green slime": {
+                    "display_name": "Small green slime",
+                    "enemy_min_health": 25,
+                    "enemy_max_health": 30,
+                    "enemy_min_damage": 4,
+                    "enemy_max_damage": 12,
+                    "item_drop_list": ["lite health potion recipe", "lite health potion"],
+                    "enemy_min_silver": 8,
+                    "enemy_max_silver": 15
+                },
+                "medium green slime": {
+                    "display_name": "Medium green slime",
+                    "enemy_min_health": 30,
+                    "enemy_max_health": 38,
+                    "enemy_min_damage": 6,
+                    "enemy_max_damage": 12,
+                    "item_drop_list": ["lite health potion recipe", "lite health potion"],
+                    "enemy_min_silver": 12,
+                    "enemy_max_silver": 22
+                }
+                
+            }
+        }
+    }
+}

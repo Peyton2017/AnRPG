@@ -1,0 +1,12 @@
+{
+    "drops_types": {
+        "lite health potion recipe": {
+            "display_name": "Lite health potion recipe",
+            "type": "recipe"
+        },
+        "lite health potion": {
+            "display_name": "Lite health potion",
+            "type": "item"
+        }
+    }
+}

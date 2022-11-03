@@ -1,0 +1,23 @@
+# Compiled python bytecode helps to speed up launch of scripts on local hardware
+__pycache__
+*/__pycache__
+
+# Local configs for running the bot
+config/banned_words.json
+config/config.json
+config/economy_settings.json
+
+# TODO -> PR to list valid reason here 
+# Fonts, I have no idea why they were added in the first place
+fonts/*
+
+# Local log file
+guilded.log
+
+# Core modules (Not supported by the guilded api)
+modules/core/*
+modules/inspire.py
+modules/demo.py
+
+# Ignoring extra packages installed in venv
+env
