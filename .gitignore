@@ -12,6 +12,7 @@ config/economy_settings.json
 fonts/*
 bans_tracker/*
 users/*
+.vs/*
 
 # Local log file
 guilded.log
